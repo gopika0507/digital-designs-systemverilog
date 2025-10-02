@@ -1,0 +1,24 @@
+#-----------------------------------------------------------
+# Vivado v2024.1 (64-bit)
+# SW Build 5076996 on Wed May 22 18:37:14 MDT 2024
+# IP Build 5075265 on Wed May 22 21:45:21 MDT 2024
+# SharedData Build 5076995 on Wed May 22 18:29:18 MDT 2024
+# Start of session at: Thu Oct  2 13:51:37 2025
+# Process ID: 10272
+# Current directory: C:/Users/Gopika N/digital-designs-systemverilog/vivado/4bit_rca/4bit_rca.runs/synth_1
+# Command line: vivado.exe -log rca4.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source rca4.tcl
+# Log file: C:/Users/Gopika N/digital-designs-systemverilog/vivado/4bit_rca/4bit_rca.runs/synth_1/rca4.vds
+# Journal file: C:/Users/Gopika N/digital-designs-systemverilog/vivado/4bit_rca/4bit_rca.runs/synth_1\vivado.jou
+# Running On        :LAPTOP-RHU4N1EH
+# Platform          :Windows Server 2016 or Windows 10
+# Operating System  :26100
+# Processor Detail  :Intel(R) Core(TM) i5-1035G1 CPU @ 1.00GHz
+# CPU Frequency     :1190 MHz
+# CPU Physical cores:4
+# CPU Logical cores :8
+# Host memory       :8375 MB
+# Swap memory       :6442 MB
+# Total Virtual     :14817 MB
+# Available Virtual :1782 MB
+#-----------------------------------------------------------
+source rca4.tcl -notrace
