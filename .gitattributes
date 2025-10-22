@@ -1,2 +1,7 @@
 *.sv linguist-language=SystemVerilog
-*.v  linguist-language=Verilog
+*.v linguist-language=Verilog
+*.js linguist-detectable=false
+*.json linguist-detectable=false
+*.html linguist-detectable=false
+*.tcl linguist-detectable=false
+*.xpr linguist-detectable=false
