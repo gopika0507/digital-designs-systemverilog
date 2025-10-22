@@ -1,7 +1,15 @@
-*.sv linguist-language=SystemVerilog
-*.v linguist-language=Verilog
-*.js linguist-detectable=false
-*.json linguist-detectable=false
-*.html linguist-detectable=false
+# Force all .sv and .svh files to be SystemVerilog
+*.sv  linguist-language=SystemVerilog
+*.svh linguist-language=SystemVerilog
+*.v   linguist-language=Verilog
+
+# Ignore unrelated Vivado/IDE files
 *.tcl linguist-detectable=false
+*.log linguist-detectable=false
+*.jou linguist-detectable=false
 *.xpr linguist-detectable=false
+*.xml linguist-detectable=false
+*.json linguist-detectable=false
+*.js linguist-detectable=false
+*.html linguist-detectable=false
+
